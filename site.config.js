@@ -13,7 +13,7 @@ module.exports = {
 
   // open graph metadata (optional)
   description: '你好，这里是小鲍的个人学习博客',
-  socialImageTitle: '菜饼同学',
+  socialImageTitle: '小鲍同学',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
@@ -52,8 +52,8 @@ module.exports = {
   pageUrlOverrides: {
      '/design-pattern': 'fffdb9cb3fe981ea892cec78f3a2f63c',
      '/compiler': 'fffdb9cb3fe98175a740f790de20ba03',
-  //   '/create-notion-blog': 'Notion-40362e4b8973491bbbc147237f1e9227',
-  //   '/create-vuepress-blog': 'vuepress-github-pagegitee-e4c85fe845104c5aa004a19df445f29e',
+     '/DL-Lee-Homework': '109db9cb3fe9809ea90bf98e2c8cdfd7',
+     '/CMU-15418-Homework': 'CMU15-418-b69c3491c0a7414086a9272ff7da5031',
   //   '/c++': 'c-6cfc812927c44a688e874d6212265b30',
   //   '/java': 'java-a0975c0ad4fb473ca8c2a803a7813a4d',
   //   '/i-am-cai-bing-tong-xue': '8f65e44b7a5a47788fdcc8dde9522bfa',
