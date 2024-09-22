@@ -51,7 +51,7 @@ module.exports = {
   //
   pageUrlOverrides: {
      '/design-pattern': 'fffdb9cb3fe981ea892cec78f3a2f63c',
-  //   '/os-introduction': '68390e1112d749debb748387a82ebd9f',
+     '/compiler': 'fffdb9cb3fe98175a740f790de20ba03',
   //   '/create-notion-blog': 'Notion-40362e4b8973491bbbc147237f1e9227',
   //   '/create-vuepress-blog': 'vuepress-github-pagegitee-e4c85fe845104c5aa004a19df445f29e',
   //   '/c++': 'c-6cfc812927c44a688e874d6212265b30',
