@@ -175,7 +175,7 @@ export const firebaseCollectionFeedbacks = getEnv(
 
 export const googleAnalyticsTrackingID = getEnv(
   'GOOGLE_ANALYTICS_TRACKING_ID',
-  ''
+  'G-1MX4PZEY84'
 )
 
 // this hack is necessary because vercel doesn't support secret files so we need to encode our google
