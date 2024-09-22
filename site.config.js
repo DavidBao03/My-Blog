@@ -49,8 +49,8 @@ module.exports = {
   // any pages defined here will override their default URL paths
   // example:
   //
-  // pageUrlOverrides: {
-  //   '/os': 'ff8a4877c04f42eda0d050547c117ea5',
+  pageUrlOverrides: {
+     '/design-pattern': 'fffdb9cb3fe981ea892cec78f3a2f63c',
   //   '/os-introduction': '68390e1112d749debb748387a82ebd9f',
   //   '/create-notion-blog': 'Notion-40362e4b8973491bbbc147237f1e9227',
   //   '/create-vuepress-blog': 'vuepress-github-pagegitee-e4c85fe845104c5aa004a19df445f29e',
@@ -69,7 +69,7 @@ module.exports = {
   //   '/frontend': '83dc1ec0083a4bdfbe7d3ac6a5b07664',
   //   '/post-list': '651765de6a0f4a729f9186f26381aef3',
   //   '/one-year-review': 'c6461186bea149eb9a83c0d7284f2921',
-  // },
+  },
   showPageAsideSocials: true,
   footCounterList: [
     '6a76fdd9ec6d4ae2855aa790d620eec4',
